@@ -1,3 +1,4 @@
+import math;
 Unidad=["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"]
 Decena=["", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"]
 Centena=["", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"]
